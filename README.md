@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbarachacon&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarachacon&langs_count=10&theme=radical)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barbarachacon&theme=radical)
 
 ![GitHub followers](https://img.shields.io/github/followers/barbarachacon?style=social)
